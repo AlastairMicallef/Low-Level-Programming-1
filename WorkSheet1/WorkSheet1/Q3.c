@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*
 int jolly() {
 	for (int a = 0; a < 3; a++) {
 		printf("for he's a jolly good fellow! \n");
@@ -27,3 +27,5 @@ int main(void) {
 	jolly();
 	deny();
 }
+
+*/
