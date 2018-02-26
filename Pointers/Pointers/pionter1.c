@@ -24,7 +24,7 @@ int main(void) {
 	int b = ptr_i;
 	printf(i);
 	printf(ptr_i);
-	printf(b);
+	printf(b); 
 	getchar();
 
 }
