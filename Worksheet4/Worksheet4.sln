@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Worksheet4", "Worksheet4\Worksheet4.vcxproj", "{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Debug|x64.ActiveCfg = Debug|x64
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Debug|x64.Build.0 = Debug|x64
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Debug|x86.Build.0 = Debug|Win32
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Release|x64.ActiveCfg = Release|x64
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Release|x64.Build.0 = Release|x64
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Release|x86.ActiveCfg = Release|Win32
+		{82B28857-7EEB-4BDB-81AE-6EC66FE4F5E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECC5927-2F21-4195-B88B-9EE0669DA745}
+	EndGlobalSection
+EndGlobal
