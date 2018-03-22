@@ -33,5 +33,14 @@
     <ClCompile Include="Q6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

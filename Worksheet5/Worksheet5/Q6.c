@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/*
 int main(void) {
 
 	int weight, height;
@@ -37,3 +37,4 @@ int main(void) {
 	getchar();
 	getchar();
 }
+*/
