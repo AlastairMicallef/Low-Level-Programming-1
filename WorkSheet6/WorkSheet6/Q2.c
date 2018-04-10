@@ -11,8 +11,9 @@ int main(void) {
 			printf("Enter number");
 			scanf_s("%d", &num);
 			getchar();
-			numbers[i] = num;
-			int calculation = num + num;
+			numbers[a] = num;
+			int calculation = 0;
+			calculation = calculation + num;
 
 			if (num == -1 || num == 0) {
 				printf("The total is %d", calculation);
@@ -20,6 +21,11 @@ int main(void) {
 				break;
 			}
 
+			if (i == 10) {
+				break;
+			}
+
+			i++;
 
 		
 		}
